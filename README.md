@@ -90,11 +90,11 @@ I'm currently building at Zone01 Oujda and open to software engineering roles, f
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Real-Time Forum** | A forum that feels instant: posts, reactions and private messages delivered live over WebSockets in a single-page app. | `Go` `SQLite` `WebSockets` `Docker` `Nginx` | [Demo](https://forum.elmehdirezoug.dev) · [Source](https://github.com/Houssam-Alhyane/real-time-forum) |
-| **Arkanoid Game** | A Brick Breaker with 3 lives, a 5-minute countdown and physics that ramp up as the bricks fall — smooth at 60 FPS. | `JavaScript` `HTML` `CSS` `Docker` `Nginx` | [Demo](https://arkanoid.elmehdirezoug.dev) · [Source](https://github.com/Houssam-Alhyane/make-your-game) |
+| **Real-Time Forum** | A forum that feels instant: posts, reactions and private messages delivered live over WebSockets in a single-page app. | `Go` `SQLite` `WebSockets` `Docker` `Nginx` | [Demo](https://forum.elmehdirezoug.dev)<br />[Source](https://github.com/Houssam-Alhyane/real-time-forum) |
+| **Arkanoid Game** | A Brick Breaker with 3 lives, a 5-minute countdown and physics that ramp up as the bricks fall — smooth at 60 FPS. | `JavaScript` `HTML` `CSS` `Docker` `Nginx` | [Demo](https://arkanoid.elmehdirezoug.dev)<br />[Source](https://github.com/Houssam-Alhyane/make-your-game) |
 | **Ant Colony Pathfinder** | A pathfinding engine that routes an ant colony through complex tunnels in the fewest turns, using BFS and Edmonds-Karp. | `Go` `BFS` `Edmonds-Karp` `Docker` `Nginx` | [Source](https://github.com/zoro-craft/lem-in) |
 | **TCP Chat Server** | A TCP chat server in Go for up to 10 clients, broadcasting messages live and replaying the history for everyone who joins. | `Go` `TCP` `Sockets` `Docker` `Nginx` | [Source](https://github.com/drawliin/NET-CAT) |
-| **ASCII Art Generator** | Turns plain text into bold ASCII art in several banner styles, ready to deploy anywhere in a single container. | `Go` `HTML` `CSS` `Docker` `Nginx` | [Demo](https://ascii-art.elmehdirezoug.dev) · [Source](https://github.com/zoro-craft/ascii-art-web-dockerize) |
+| **ASCII Art Generator** | Turns plain text into bold ASCII art in several banner styles, ready to deploy anywhere in a single container. | `Go` `HTML` `CSS` `Docker` `Nginx` | [Demo](https://ascii-art.elmehdirezoug.dev)<br />[Source](https://github.com/zoro-craft/ascii-art-web-dockerize) |
 | **Artists Explorer** | Explore artists, their members, concert dates and locations through a fast, filterable interface built on a public API. | `Go` `HTML` `CSS` `Docker` `Nginx` | [Source](https://github.com/zoro-craft/groupie-tracker-filters) |
 
 More at [elmehdirezoug.dev/#projects](https://elmehdirezoug.dev/#projects).
