@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="96" viewBox="0 0 520 96" fill="none" role="img" aria-label="Visit my portfolio at elmehdirezoug.dev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A66C2"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="518" height="94" rx="24" fill="url(#bg)" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+  <text x="44" y="47" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.3">Visit my portfolio</text>
+  <text x="44" y="71" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.2">elmehdirezoug.dev</text>
+  <circle cx="458" cy="48" r="20" fill="white" fill-opacity="0.14"/>
+  <path d="M450 48h14M458 41l7 7-7 7" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
