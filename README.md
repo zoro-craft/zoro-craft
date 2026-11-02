@@ -97,7 +97,7 @@ I'm currently building at Zone01 Oujda and open to software engineering roles, f
 | **ASCII Art Generator** | Turns plain text into bold ASCII art in several banner styles, ready to deploy anywhere in a single container. | `Go` `HTML` `CSS` `Docker` `Nginx` | •&nbsp;[Demo](https://ascii-art.elmehdirezoug.dev)<br />•&nbsp;[Source](https://github.com/zoro-craft/ascii-art-web-dockerize) |
 | **Artists Explorer** | Explore artists, their members, concert dates and locations through a fast, filterable interface built on a public API. | `Go` `HTML` `CSS` `Docker` `Nginx` | •&nbsp;[Source](https://github.com/zoro-craft/groupie-tracker-filters) |
 
-More at [elmehdirezoug.dev/#projects](https://elmehdirezoug.dev/#projects).
+More projects on [GitHub](https://github.com/zoro-craft?tab=repositories).
 
 ## Experience
 
