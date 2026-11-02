@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://elmehdirezoug.dev">
-    <img src="https://img.shields.io/badge/Visit_my_portfolio-elmehdirezoug.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A66C2" alt="Visit my portfolio" />
+    <img src="assets/portfolio-button.svg" alt="Visit my portfolio at elmehdirezoug.dev" width="520" />
   </a>
 </p>
 
