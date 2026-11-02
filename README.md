@@ -70,16 +70,16 @@ I'm currently building at Zone01 Oujda and open to software engineering roles, f
       <p><a href="https://social-network.elmehdirezoug.dev/">Live demo</a> · <a href="https://github.com/zoro-craft/social-network">Source</a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Houssam-Alhyane/Bomberman-Dom"><img src="https://elmehdirezoug.dev/uploads/bomberman-game-b0804530.png" alt="Bomberman Game" width="100%" /></a>
+      <a href="https://bomberman.elmehdirezoug.dev/"><img src="https://elmehdirezoug.dev/uploads/bomberman-game-b0804530.png" alt="Bomberman Game" width="100%" /></a>
       <h3>Bomberman Game</h3>
       <p>Bomberman for 2–4 players online, with a server-authoritative loop that validates every move, bomb and power-up.</p>
       <p><code>JavaScript</code> <code>WebSockets</code> <code>Docker</code> <code>Nginx</code></p>
-      <p><a href="https://github.com/Houssam-Alhyane/Bomberman-Dom">Source</a></p>
+      <p><a href="https://bomberman.elmehdirezoug.dev/">Live demo</a> · <a href="https://github.com/Houssam-Alhyane/Bomberman-Dom">Source</a></p>
     </td>
     <td width="33%" valign="top">
       <img src="https://elmehdirezoug.dev/uploads/conversation-intelligence-5d6ffc2f.jpg" alt="Conversation Intelligence" width="100%" />
       <h3>Conversation Intelligence</h3>
-      <p>An internal tool built for Orange Maroc that turns real support conversations into sentiment, topic and churn insights.</p>
+      <p>An internal Orange Maroc project: support chats show customer mood and risk of leaving. My part: Express (auth, pagination) + React.</p>
       <p><code>React</code> <code>Express</code> <code>Oracle DB</code> <code>Docker</code> <code>Nginx</code></p>
       <p><em>Internal at Orange Maroc</em></p>
     </td>
