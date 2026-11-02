@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://elmehdirezoug.dev">
-    <img src="assets/portfolio-button.svg" alt="Visit my portfolio at elmehdirezoug.dev" width="520" />
+    <img src="assets/portfolio-button.svg" alt="Visit my portfolio at elmehdirezoug.dev" width="360" />
   </a>
 </p>
 
