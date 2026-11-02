@@ -105,7 +105,7 @@ More projects on [GitHub](https://github.com/zoro-craft?tab=repositories).
 Full-stack development across Go, JavaScript and Next.js, from real-time platforms and APIs to game servers and containerized deployments.
 
 **Full-Stack Developer Intern** · Orange Maroc · *2025 · 3 months*  
-Built Conversation Intelligence, an internal tool that turns support conversations into sentiment, topic and churn insights. Worked across React, Express and Oracle DB.
+Built Conversation Intelligence, an internal Orange Maroc project: support chats show customer mood and risk of leaving. My part: Express (auth, pagination) + React.
 
 **Systems & Network Technician Intern** · AYTELCOM · *2023 · 2 months*  
 Systems and network operations.
