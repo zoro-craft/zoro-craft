@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://elmehdirezoug.dev"><img src="https://img.shields.io/badge/Portfolio-elmehdirezoug.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/elmehdi-rezoug"><img src="https://img.shields.io/badge/LinkedIn-elmehdi--rezoug-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:elmehdirezoug100@gmail.com"><img src="https://img.shields.io/badge/Email-elmehdirezoug100@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -14,6 +13,12 @@
 <p align="center">Casablanca, Morocco</p>
 
 ---
+
+<p align="center">
+  <a href="https://elmehdirezoug.dev">
+    <img src="https://img.shields.io/badge/Visit_my_portfolio-elmehdirezoug.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+</p>
 
 ## About
 
